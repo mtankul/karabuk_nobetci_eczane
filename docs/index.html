@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
+        integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+        integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
+
+    <title>Document</title>
+</head>
+<style>
+    .navbar {
+        width: 100%;
+        font-family: 'Roboto', sans-serif;
+        border-radius: 12px;
+    }
+
+    .navbar a {
+        font-size: 3rem;
+        color: #DA0037;
+        text-decoration: none;
+        margin: 0 auto;
+    }
+
+    #medikarLogo {
+        float: left;
+        width: 400px;
+        height: 100px;
+    }
+    #date_{
+        margin: 0 auto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    #eczLogo{
+        width: 70px;
+        height: 70px;
+    }
+
+    .eczTbl {
+        margin-top: 10px;
+        font-family: "Montserrat", sans-serif;
+        width: 100%;
+        
+    }
+
+    i {
+        color: #DA0037;
+    }
+
+    #eczAd {
+        width: 450px;
+        font-size: 1.6rem;
+    }
+
+    #eczTel {
+        font-size: 1rem;
+        width: 200px;
+    }
+
+    #eczAdrs {
+        font-size: 1.4rem;
+        width: 600px;
+    }
+
+    #eczIlce {
+        font-size: 1.6rem;
+        color: #DA0037;
+    }
+</style>
+
+<body>
+
+    <nav id="navbar" class="navbar">
+        <div class="logo">
+            <img id="medikarLogo" src="img/medikar.png" alt="Medikar" srcset="">
+            
+        </div>
+        
+        
+        <div id="date_">
+            <a href="#">KARABÜK NÖBETÇİ ECZANELER</a>
+        </div>
+    </nav>
+
+
+
+
+    <table class="table table-striped eczTbl">
+        <thead class="table-dark">
+            <th>Eczane</th>
+            <th>Adres</th>
+            <th>Telefon</th>
+            <th>İlçe</th>
+        </thead>
+        <tbody id="eczTblBody">
+
+        </tbody>
+    </table>
+
+
+
+
+
+
+
+
+    <script src="/index.js"></script>
+    <script src="app.js"></script>
+    <script>
+        
+        setInterval(function () {
+            window.location.reload(false);
+        }, 100000);
+        
+    </script>
+</body>
+
+</html>

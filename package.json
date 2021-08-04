@@ -1,0 +1,29 @@
+{
+  "name": "nbt_ecz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10",
+    "cron": "^1.8.2",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "got": "^11.8.2",
+    "jsdom": "^16.7.0",
+    "node-cron": "^2.0.3",
+    "qs": "^6.10.1",
+    "require": "^2.4.20",
+    "routes": "^2.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}

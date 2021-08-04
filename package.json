@@ -12,8 +12,8 @@
     "url": "git+https://github.com/duhanbayrak/karabuk_nobetci_eczane.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Duhan Bayrak",
+  "license": "MIT",
   "dependencies": {
     "axios": "^0.21.1",
     "cheerio": "^1.0.0-rc.10",

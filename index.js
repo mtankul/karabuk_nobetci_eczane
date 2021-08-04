@@ -22,7 +22,7 @@ var config = {
         .then(function (response) {
         console.log(JSON.stringify(response.data));
         varDataEcz = JSON.stringify(response.data);
-        fs.writeFileSync("docs/dataset/ecz.json", varDataEcz);
+        fs.writeFileSync("https://raw.githubusercontent.com/duhanbayrak/karabuk_nobetci_eczane/master/docs/dataset/ecz.json", varDataEcz);
 
         })
         .catch(function (error) {

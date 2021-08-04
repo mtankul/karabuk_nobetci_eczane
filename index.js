@@ -8,6 +8,15 @@ const console = require('console');
 var data = qs.stringify({
 
 });
+var config = {
+    method: 'get',
+    url: 'https://www.nosyapi.com/apiv2/pharmacy?city=karabuk',
+    headers: {
+        'Content-Type': 'application/json',
+        'Authorization': 'Bearer 47gch9lETlpp44KnOcHnuVy5VYKhy84tosYVbAlkq3FYBmvvTXkfvQZaLHQ9'
+    },
+    data: data
+};
 
 cron.schedule("*/1 * * * *", function () {
 
@@ -24,13 +33,4 @@ cron.schedule("*/1 * * * *", function () {
 })
 
 
-var config = {
-    method: 'get',
-    url: 'https://www.nosyapi.com/apiv2/pharmacy?city=karabuk',
-    headers: {
-        'Content-Type': 'application/json',
-        'Authorization': 'Bearer 47gch9lETlpp44KnOcHnuVy5VYKhy84tosYVbAlkq3FYBmvvTXkfvQZaLHQ9'
-    },
-    data: data
-};
 

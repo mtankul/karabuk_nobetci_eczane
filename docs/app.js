@@ -49,7 +49,7 @@ function getEcz() {
 
                 document.getElementById("eczTblBody").innerHTML += `
                 
-                    <td id="eczAd"><img id="eczLogo" src="/img/ecz.png" alt="Medikar" srcset=""> ${eczAd[i]}</td>
+                    <td id="eczAd"><img id="eczLogo" src="img/ecz.png" alt="Medikar" srcset=""> ${eczAd[i]}</td>
                     
                     <td id="eczAdrs"> <i class="fas fa-map-marker-alt"></i> ${eczAdrs[i]}</td>
                     

@@ -43,7 +43,7 @@ function getEcz() {
                 eczSehir.push(e.Sehir);
                 eczIlce.push(e.ilce);
             });
-
+            console.log(eczAd[1]);
 
             for (let i = 0; i < tplmEcz; i++) {
 

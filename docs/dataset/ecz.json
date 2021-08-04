@@ -1,7 +1,7 @@
 {
     "status": "success",
     "message": "ok",
-    "rowCount": 5,
+    "rowCount": 6,
     "data": [
         {
             "EczaneAdi": "Gülşen Eczanesi",
@@ -52,7 +52,7 @@
             "longitude": 32.6266
         },
         {
-            "EczaneAdi": "Dila Eczanesi",
+            "EczaneAdi": "mustafa Eczanesi",
             "Adresi": "Yeni Mahalle Kardes Kazan Caddesi Hıkmet Namal Çarşısı No:3/6 Safranbolu / Karabük",
             "Semt": "",
             "YolTarifi": "",
@@ -63,6 +63,17 @@
             "latitude": 41.2509,
             "longitude": 32.6813
         },
-        
+        {
+            "EczaneAdi": "duhan Eczanesi",
+            "Adresi": "İnönü Caddesi No:2 Yenice / Karabük",
+            "Semt": "",
+            "YolTarifi": "",
+            "Telefon": "0(370)766-44-55",
+            "Telefon2": "",
+            "Sehir": "Karabük",
+            "ilce": "Yenice",
+            "latitude": 41.199755,
+            "longitude": 32.329945
+        }
     ]
 }

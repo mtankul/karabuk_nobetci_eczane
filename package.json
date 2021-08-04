@@ -14,6 +14,7 @@
   "keywords": [],
   "author": "Duhan Bayrak",
   "license": "MIT",
+  "homepage": "https://duhanbayrak.github.io/karabuk_nobetci_eczane/",
   "dependencies": {
     "axios": "^0.21.1",
     "cheerio": "^1.0.0-rc.10",

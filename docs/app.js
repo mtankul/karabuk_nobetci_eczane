@@ -26,7 +26,7 @@ document.getElementById("date_").innerHTML += `
 function getEcz() {
     const xhr = new XMLHttpRequest();
 
-    xhr.open("GET", "dataset/ecz.json", true); //asi.json dosyasını açıyoruz.
+    xhr.open("GET", "https://raw.githubusercontent.com/duhanbayrak/karabuk_nobetci_eczane/master/docs/dataset/ecz.json", true); //asi.json dosyasını açıyoruz.
 
     xhr.onload = function () {
         if (this.status === 200) {

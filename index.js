@@ -29,6 +29,11 @@ var config = {
             console.log(error);
         });
 
+json = require('json-update');
 
+json.update('docs/dataset/ecz.json.json',{test:10})
+.then(function(dat) { 
+  console.log(dat.test) 
+});
 
 

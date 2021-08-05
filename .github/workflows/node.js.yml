@@ -22,6 +22,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+      
     - name: Use Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v2
       with:
@@ -29,5 +30,4 @@ jobs:
         cache: 'npm'
     - run: npm install
     - run: node index.js
-    - run: git add docs/dataset/ecz.json
-    - run: git push
+    

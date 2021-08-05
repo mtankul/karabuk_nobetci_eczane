@@ -5,25 +5,29 @@ const console = require('console');
 var data = qs.stringify({
 
 });
-var config = {
-    method: 'get',
-    url: 'https://www.nosyapi.com/apiv2/pharmacy?city=karabuk',
-    headers: {
-        'Content-Type': 'application/json',
-        'Authorization': 'Bearer 47gch9lETlpp44KnOcHnuVy5VYKhy84tosYVbAlkq3FYBmvvTXkfvQZaLHQ9'
-    },
-    data: data
-};
-
+function veriCek() {
+    var config = {
+        method: 'get',
+        url: 'https://www.nosyapi.com/apiv2/pharmacy?city=karabuk',
+        headers: {
+            'Content-Type': 'application/json',
+            'Authorization': 'Bearer 47gch9lETlpp44KnOcHnuVy5VYKhy84tosYVbAlkq3FYBmvvTXkfvQZaLHQ9'
+        },
+        data: data
+    };
     axios(config)
         .then(function (response) {
-        console.log(JSON.stringify(response.data));
-        varDataEcz = JSON.stringify(response.data);
-        fs.writeFileSync("ecz.json", varDataEcz);
-
+            console.log(JSON.stringify(response.data));
+            varDataEcz = JSON.stringify(response.data);
+            fs.writeFileSync("docs/dataset/ecz.json", varDataEcz,null,4);
+    
         })
         .catch(function (error) {
             console.log(error);
         });
+    
+        
+}
+veriCek();
 
 

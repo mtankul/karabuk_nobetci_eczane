@@ -5,6 +5,9 @@ const console = require('console');
 var data = qs.stringify({
 
 });
+var date = new Date();
+var hour = date.getHours();
+
 function veriCek() {
     var config = {
         method: 'get',
@@ -20,6 +23,7 @@ function veriCek() {
             console.log(JSON.stringify(response.data));
             varDataEcz = JSON.stringify(response.data,null,4);
             fs.writeFileSync("docs/dataset/ecz.json", varDataEcz);
+            alert("Veri Çekildi",hour);
     
         })
         .catch(function (error) {

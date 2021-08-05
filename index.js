@@ -23,7 +23,7 @@ function veriCek() {
             console.log(JSON.stringify(response.data));
             varDataEcz = JSON.stringify(response.data,null,4);
             fs.writeFileSync("docs/dataset/ecz.json", varDataEcz);
-            alert("Veri Çekildi",hour);
+            console.log("Veri Çekildi",hour);
     
         })
         .catch(function (error) {

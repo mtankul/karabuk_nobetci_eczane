@@ -30,8 +30,4 @@ jobs:
         cache: 'npm'
     - run: npm install
     - run: node index.js
-    - id: set-matrix
-    - run: |
-        JSON=$(cat docs/dataset/ecz.json)
-        echo "::set-output name=matrix::${JSON//'%'/'%25'}"
     

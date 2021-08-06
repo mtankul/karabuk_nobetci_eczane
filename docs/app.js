@@ -15,7 +15,7 @@ if (day < 9) {
     day = "0" + tarih.getDate();
 }
 if (month < 9) {
-    month = "0" + parseInt(tarih.getMonth())+1;
+    month = "0" + Number(tarih.getMonth() + 1);
 }
 
 document.getElementById("date_").innerHTML += `

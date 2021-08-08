@@ -1,7 +1,7 @@
 {
     "status": "success",
     "message": "ok",
-    "rowCount": 7,
+    "rowCount": 6,
     "data": [
         {
             "EczaneAdi": "Tuğba Eczanesi",
@@ -28,64 +28,52 @@
             "longitude": 32.5311
         },
         {
-            "EczaneAdi": "Üniversite Eczanesi",
-            "Adresi": "Üniversite Mahallesi, Efsa Nur Sokak B-Blok No:1-A-B Merkez / Karabük",
+            "EczaneAdi": "100. Yıl Eczanesi",
+            "Adresi": "100.Yıl Mahallesi 1003 Caddesi, No:26-28/a Karabük",
+            "Semt": "5000 Evler",
+            "YolTarifi": "",
+            "Telefon": "0(370)433-44-00",
+            "Telefon2": "",
+            "Sehir": "Karabük",
+            "ilce": "Merkez",
+            "latitude": 41.2183,
+            "longitude": 32.6683
+        },
+        {
+            "EczaneAdi": "Atay Eczanesi",
+            "Adresi": "Fevzi Fırat Caddesi, No:64/A Karabük",
             "Semt": "",
             "YolTarifi": "",
-            "Telefon": "0(370)433-27-26",
+            "Telefon": "0(370)424-20-00",
             "Telefon2": "",
             "Sehir": "Karabük",
             "ilce": "Merkez",
-            "latitude": 41.221383,
-            "longitude": 32.647587
+            "latitude": 41.2007,
+            "longitude": 32.6043
         },
         {
-            "EczaneAdi": "Akkaya Eczanesi",
-            "Adresi": "Şirinevler Mahallesi, Mehmet Akif Caddesi, Pınar Apartmanı No:20 Merkez / Karabük",
-            "Semt": "",
-            "YolTarifi": "Eğitim Araştırma Hastanesi karşısı",
-            "Telefon": "0(370)412-57-50",
-            "Telefon2": "",
-            "Sehir": "Karabük",
-            "ilce": "Merkez",
-            "latitude": 41.207895,
-            "longitude": 32.621887
-        },
-        {
-            "EczaneAdi": "Yüksel Eczanesi",
-            "Adresi": "Hürriyet Mahallesi, Zonguldak Caddesi, Çağrı İş Merkezi C-Blok No:30/K Merkez / Karabük",
-            "Semt": "",
-            "YolTarifi": "Diş Hastanesi arka çıkış kapısı karşısı",
-            "Telefon": "0(370)412-35-36",
-            "Telefon2": "",
-            "Sehir": "Karabük",
-            "ilce": "Merkez",
-            "latitude": 41.1941884,
-            "longitude": 32.6132286
-        },
-        {
-            "EczaneAdi": "Özkan Eczanesi",
-            "Adresi": "Atatürk Mahallesi Akter Sokak, Devrim Sitesi. c Blok No:6/D Safranbolu / Karabük",
+            "EczaneAdi": "Dilek Eczanesi",
+            "Adresi": "Esentepe Mahallesi, İncekaya Caddesi, Sultan Çayırı Evleri No:78/B Safranbolu / Karabük",
             "Semt": "",
             "YolTarifi": "",
-            "Telefon": "0(370)725-15-18",
+            "Telefon": "0(370)712-54-34",
             "Telefon2": "",
             "Sehir": "Karabük",
             "ilce": "Safranbolu",
-            "latitude": 41.2518,
-            "longitude": 32.6839
+            "latitude": 41.271633,
+            "longitude": 32.674372
         },
         {
-            "EczaneAdi": "Yenice Eczanesi",
-            "Adresi": "Merkez Mahallesi, Rauf Koymatcık Caddesi, Altınkaya İş Merkezi No:1/M Yenice / Karabük",
+            "EczaneAdi": "Deniz Eczanesi",
+            "Adresi": "Merkez Mahallesi, Bülent Ecevit Caddesi, No:6/A Yenice / Karabük",
             "Semt": "",
-            "YolTarifi": "",
-            "Telefon": "0(370)766-12-14",
-            "Telefon2": "",
+            "YolTarifi": "Altınkaya İş Merkezi Karşısı",
+            "Telefon": "0(370)766-36-89",
+            "Telefon2": "0 (370) 766-42-00",
             "Sehir": "Karabük",
             "ilce": "Yenice",
-            "latitude": 41.2003,
-            "longitude": 32.3283
+            "latitude": 41.2001,
+            "longitude": 32.3293
         }
     ]
 }

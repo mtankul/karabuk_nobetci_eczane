@@ -1,7 +1,7 @@
 {
     "status": "success",
     "message": "ok",
-    "rowCount": 7,
+    "rowCount": 6,
     "data": [
         {
             "EczaneAdi": "Gülşen Eczanesi",
@@ -28,64 +28,52 @@
             "longitude": 32.532633
         },
         {
-            "EczaneAdi": "Doğa Eczanesi",
-            "Adresi": "100. Yıl Mahallesi, Karabük Kastamonu Yolu Üstü Sokak No:59/D Merkez / Karabük",
+            "EczaneAdi": "Büşra Eczanesi",
+            "Adresi": "Beşbinevler Mahallesi, Şahin Tepesi No:18/A Merkez / Karabük",
             "Semt": "5000 Evler",
             "YolTarifi": "",
-            "Telefon": "0(370)502-00-52",
+            "Telefon": "0(370)433-07-77",
             "Telefon2": "",
             "Sehir": "Karabük",
             "ilce": "Merkez",
-            "latitude": 41.2176,
-            "longitude": 32.668
+            "latitude": 41.2342,
+            "longitude": 32.6534
         },
         {
-            "EczaneAdi": "Derman Eczanesi",
-            "Adresi": "PTT Caddesi Havuzluhan No:25/B Karabük",
+            "EczaneAdi": "Ömür Eczanesi",
+            "Adresi": "Bayır Mahalle Kemal Günes Caddesi No:167/A Karabük",
             "Semt": "",
             "YolTarifi": "",
-            "Telefon": "0(370)424-19-55",
+            "Telefon": "0(370)424-57-14",
             "Telefon2": "",
             "Sehir": "Karabük",
             "ilce": "Merkez",
-            "latitude": 41.1965,
-            "longitude": 32.6168
+            "latitude": 41.1949,
+            "longitude": 32.6184
         },
         {
-            "EczaneAdi": "Esentepe Eczanesi",
-            "Adresi": "Esentepe Mahallesi Taskent Caddesi Camıaltı Sokak No:11 Karabük",
+            "EczaneAdi": "Dila Eczanesi",
+            "Adresi": "Yeni Mahalle Kardes Kazan Caddesi Hıkmet Namal Çarşısı No:3/6 Safranbolu / Karabük",
             "Semt": "",
             "YolTarifi": "",
-            "Telefon": "0(370)424-44-03",
-            "Telefon2": "",
-            "Sehir": "Karabük",
-            "ilce": "Merkez",
-            "latitude": 41.2068,
-            "longitude": 32.6266
-        },
-        {
-            "EczaneAdi": "Tuncer Eczanesi",
-            "Adresi": "Atatürk Mahallesi, Sağlık Sokak No:27/B Safranbolu / Karabük",
-            "Semt": "",
-            "YolTarifi": "",
-            "Telefon": "0(370)725-29-97",
+            "Telefon": "0(370)725-50-16",
             "Telefon2": "",
             "Sehir": "Karabük",
             "ilce": "Safranbolu",
-            "latitude": 41.2524767,
-            "longitude": 32.6841971
+            "latitude": 41.2509,
+            "longitude": 32.6813
         },
         {
-            "EczaneAdi": "Deniz Eczanesi",
-            "Adresi": "Merkez Mahallesi, Bülent Ecevit Caddesi, No:6/A Yenice / Karabük",
+            "EczaneAdi": "Yeni Zümrüt Eczanesi",
+            "Adresi": "İsmetpaşa Mahallesi, Doruk Sokak, No:8/B Yenice / Karabük",
             "Semt": "",
-            "YolTarifi": "Altınkaya İş Merkezi Karşısı",
-            "Telefon": "0(370)766-36-89",
-            "Telefon2": "0 (370) 766-42-00",
+            "YolTarifi": "Yenice Devlet Hastanesi karşısı",
+            "Telefon": "0(370)766-45-00",
+            "Telefon2": "",
             "Sehir": "Karabük",
             "ilce": "Yenice",
-            "latitude": 41.2001,
-            "longitude": 32.3293
+            "latitude": 41.209554,
+            "longitude": 32.305744
         }
     ]
 }

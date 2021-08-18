@@ -4,76 +4,76 @@
     "rowCount": 6,
     "data": [
         {
-            "EczaneAdi": "Tuğba Eczanesi",
-            "Adresi": "Hükümet Caddesi No:71/B Eflani / Karabük",
+            "EczaneAdi": "Gülşen Eczanesi",
+            "Adresi": "Candaroğlu Mahallesi, Hastane Caddesi, No:7 Karabük-Eflani",
             "Semt": "",
             "YolTarifi": "",
-            "Telefon": "0(370)461-24-27",
+            "Telefon": "0(370)461-23-31",
             "Telefon2": "",
             "Sehir": "Karabük",
             "ilce": "Eflani",
-            "latitude": 41.4232,
-            "longitude": 32.9589
+            "latitude": 41.4229,
+            "longitude": 32.9564
         },
         {
-            "EczaneAdi": "Şifa Eczanesi",
-            "Adresi": "Merkez Mahallesi İnönü Caddesi Sen Is Hanı No:1 Eskipazar / Karabük",
+            "EczaneAdi": "Mutlu Eczanesi",
+            "Adresi": "Orta Sokak No:7/B Eskipazar / Karabük",
             "Semt": "",
             "YolTarifi": "",
-            "Telefon": "0(370)818-35-00",
-            "Telefon2": "",
+            "Telefon": "0(370)818-11-24",
+            "Telefon2": "0 (370) 818-37-86",
             "Sehir": "Karabük",
             "ilce": "Eskipazar",
-            "latitude": 40.946421,
-            "longitude": 32.532633
+            "latitude": 40.9438,
+            "longitude": 32.5304
         },
         {
-            "EczaneAdi": "Yeni Eczane",
-            "Adresi": "Beşbinevler Mahallesi, Şahin Tepesi Betim 1 İş Merkezi No:10/C",
+            "EczaneAdi": "İstanbul Eczanesi",
+            "Adresi": "Şirinevler Mahallesi, Mehmet Akif Alpaslan Ap. No:3/13 Merkez / Karabük",
             "Semt": "",
             "YolTarifi": "",
-            "Telefon": "0(370)433-34-44",
+            "Telefon": "0(370)415-57-00",
             "Telefon2": "",
             "Sehir": "Karabük",
             "ilce": "Merkez",
-            "latitude": 41.235,
-            "longitude": 32.6532
+            "latitude": 41.2081956,
+            "longitude": 32.6207653
         },
         {
-            "EczaneAdi": "Cerrahpaşa Eczanesi",
-            "Adresi": "Şirinevler Mahallesi, Alparslan Caddesi, No:4/D Merkez / Karabük",
-            "Semt": "",
-            "YolTarifi": "Eğitim ve Araştırma Hastanesi karşısı",
-            "Telefon": "0(370)415-38-57",
-            "Telefon2": "0 (370) 415-45-74",
+            "EczaneAdi": "Gökçınar Eczanesi",
+            "Adresi": "100.Yıl Mahallesi 3 Nolu Cadde Bahçeşehir Sitesi A Blok No:4 Karabük",
+            "Semt": "5000 Evler",
+            "YolTarifi": "",
+            "Telefon": "0(370)433-71-19",
+            "Telefon2": "",
             "Sehir": "Karabük",
             "ilce": "Merkez",
-            "latitude": 41.2113304,
-            "longitude": 32.6212004
+            "latitude": 41.2183,
+            "longitude": 32.668
         },
         {
-            "EczaneAdi": "Safranbolu Eczanesi",
-            "Adresi": "Yeni Mahalle Konak Çarşısı No:139/A Safranbolu / Karabük",
+            "EczaneAdi": "Safran Eczanesi",
+            "Adresi": "Atatürk Mahallesi, Akter Sokak Devrim Sitesi C Blok No:6/B Safranbolu / Karabük",
             "Semt": "",
             "YolTarifi": "",
-            "Telefon": "0(370)725-25-94",
+            "Telefon": "0(370)712-82-62",
             "Telefon2": "",
             "Sehir": "Karabük",
             "ilce": "Safranbolu",
-            "latitude": 41.254,
-            "longitude": 32.6767
+            "latitude": 41.2519,
+            "longitude": 32.6837
         },
         {
-            "EczaneAdi": "Gözde Eczanesi",
-            "Adresi": "İsmetpaşa Mahallesi Doruk Sokak No:2/A Yenice / Karabük",
+            "EczaneAdi": "Betül Eczanesi",
+            "Adresi": "Merkez Mahallesi, İnönü Caddesi, No:7/A Yenice / Karabük",
             "Semt": "",
-            "YolTarifi": "Yeni Devlet Hastanesi karşısı",
-            "Telefon": "0(370)766-33-83",
+            "YolTarifi": "",
+            "Telefon": "0(370)766-37-37",
             "Telefon2": "",
             "Sehir": "Karabük",
             "ilce": "Yenice",
-            "latitude": 41.209526,
-            "longitude": 32.306141
+            "latitude": 41.199861,
+            "longitude": 32.33048
         }
     ]
 }

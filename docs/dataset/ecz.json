@@ -1,7 +1,7 @@
 {
     "status": "success",
     "message": "ok",
-    "rowCount": 7,
+    "rowCount": 6,
     "data": [
         {
             "EczaneAdi": "Gülşen Eczanesi",
@@ -28,64 +28,52 @@
             "longitude": 32.5311
         },
         {
-            "EczaneAdi": "100. Yıl Eczanesi",
-            "Adresi": "100.Yıl Mahallesi 1003 Caddesi, No:26-28/a Karabük",
-            "Semt": "5000 Evler",
+            "EczaneAdi": "Yeni Eczane",
+            "Adresi": "Beşbinevler Mahallesi, Şahin Tepesi Betim 1 İş Merkezi No:10/C",
+            "Semt": "",
             "YolTarifi": "",
-            "Telefon": "0(370)433-44-00",
+            "Telefon": "0(370)433-34-44",
             "Telefon2": "",
             "Sehir": "Karabük",
             "ilce": "Merkez",
-            "latitude": 41.2183,
-            "longitude": 32.6683
+            "latitude": 41.235,
+            "longitude": 32.6532
         },
         {
-            "EczaneAdi": "Müge Eczanesi",
-            "Adresi": "Bayır Mahalle Fevzi Çakmak Caddesi No:37/A Karabük",
+            "EczaneAdi": "Dilek Eczanesi",
+            "Adresi": "Bayır Mahalle Fevzi Çakmak Caddesi No:9 Karabük",
             "Semt": "",
             "YolTarifi": "",
-            "Telefon": "0(370)424-41-22",
+            "Telefon": "0(370)415-30-27",
             "Telefon2": "",
             "Sehir": "Karabük",
             "ilce": "Merkez",
-            "latitude": 41.1973,
-            "longitude": 32.6096
+            "latitude": 41.202,
+            "longitude": 32.6054
         },
         {
-            "EczaneAdi": "Bulut Eczanesi",
-            "Adresi": "Yeşil Mahalle Esentepe Taskent Caddesi No:78 Karabük",
+            "EczaneAdi": "Koç Eczanesi",
+            "Adresi": "Emek Mahallesi, Akıntürk Sokak No:19-24 Safranbolu / Karabük",
             "Semt": "",
             "YolTarifi": "",
-            "Telefon": "0(370)415-55-20",
-            "Telefon2": "",
-            "Sehir": "Karabük",
-            "ilce": "Merkez",
-            "latitude": 41.2061,
-            "longitude": 32.6266
-        },
-        {
-            "EczaneAdi": "Safranbolu Eczanesi",
-            "Adresi": "Yeni Mahalle Konak Çarşısı No:139/A Safranbolu / Karabük",
-            "Semt": "",
-            "YolTarifi": "",
-            "Telefon": "0(370)725-25-94",
+            "Telefon": "0(370)413-30-70",
             "Telefon2": "",
             "Sehir": "Karabük",
             "ilce": "Safranbolu",
-            "latitude": 41.254,
-            "longitude": 32.6767
+            "latitude": 41.2488,
+            "longitude": 32.6774
         },
         {
-            "EczaneAdi": "Gökçe Eczanesi",
-            "Adresi": "İnönü Caddesi No:2 Yenice / Karabük",
+            "EczaneAdi": "Gözde Eczanesi",
+            "Adresi": "İsmetpaşa Mahallesi Doruk Sokak No:2/A Yenice / Karabük",
             "Semt": "",
-            "YolTarifi": "",
-            "Telefon": "0(370)766-44-55",
+            "YolTarifi": "Yeni Devlet Hastanesi karşısı",
+            "Telefon": "0(370)766-33-83",
             "Telefon2": "",
             "Sehir": "Karabük",
             "ilce": "Yenice",
-            "latitude": 41.199755,
-            "longitude": 32.329945
+            "latitude": 41.209526,
+            "longitude": 32.306141
         }
     ]
 }

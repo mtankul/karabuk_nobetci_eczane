@@ -14,7 +14,7 @@ function veriCek() {
         url: 'https://www.nosyapi.com/apiv2/pharmacy?city=karabuk',
         headers: {
             'Content-Type': 'application/json',
-            'Authorization': 'Bearer SKiqnEFEl0i7INX3mrRU0ygETtgyGNqnOYtsBbZlimHFUramK7fY8lK4ycU4'
+            'Authorization': 'Bearer ibwjutqgRnylB4PabjrHaSQtmH8ZdoangTgqqa50YRwRd1zCYbZgZEWZCzzP'
         },
         data: data
     };

@@ -1,7 +1,7 @@
 {
     "status": "failure",
-    "message": "Kredi değeri yetersiz. Kredi satın alın.",
-    "systemTime": 1630933618,
+    "error": "Bu API Kullanımı Etkinleştirmediniz",
+    "systemTime": 1630933792,
     "rowCount": "",
     "data": []
 }

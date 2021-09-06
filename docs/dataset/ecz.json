@@ -1,1 +1,7 @@
-
+{
+    "status": "failure",
+    "error": "Bu API Kullanımı Etkinleştirmediniz",
+    "systemTime": 1630934099,
+    "rowCount": "",
+    "data": []
+}

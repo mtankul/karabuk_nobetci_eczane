@@ -16,64 +16,64 @@
             "longitude": 32.9589
         },
         {
-            "EczaneAdi": "Mutlu Eczanesi",
-            "Adresi": "Orta Sokak No:7/B Eskipazar / Karabük",
+            "EczaneAdi": "Eskipazar Eczanesi",
+            "Adresi": "Merkez Mahallesi, Cami Caddesi, No:16 Eskipazar / Karabük",
             "Semt": "",
             "YolTarifi": "",
-            "Telefon": "0(370)818-11-24",
-            "Telefon2": "0 (370) 818-37-86",
+            "Telefon": "0(370)818-37-37",
+            "Telefon2": "",
             "Sehir": "Karabük",
             "ilce": "Eskipazar",
-            "latitude": 40.9438,
-            "longitude": 32.5304
+            "latitude": 40.944,
+            "longitude": 32.5311
         },
         {
-            "EczaneAdi": "Doğa Eczanesi",
-            "Adresi": "100. Yıl Mahallesi, Karabük Kastamonu Yolu Üstü Sokak No:59/D Merkez / Karabük",
-            "Semt": "5000 Evler",
+            "EczaneAdi": "Üniversite Eczanesi",
+            "Adresi": "Üniversite Mahallesi, Efsa Nur Sokak B-Blok No:1-A-B Merkez / Karabük",
+            "Semt": "",
             "YolTarifi": "",
-            "Telefon": "0(370)502-00-52",
+            "Telefon": "0(370)433-27-26",
             "Telefon2": "",
             "Sehir": "Karabük",
             "ilce": "Merkez",
-            "latitude": 41.2176,
-            "longitude": 32.668
+            "latitude": 41.221383,
+            "longitude": 32.647587
         },
         {
-            "EczaneAdi": "Atay Eczanesi",
-            "Adresi": "Fevzi Fırat Caddesi, No:64/A Karabük",
+            "EczaneAdi": "Ünal Eczanesi",
+            "Adresi": "Şirinevler Mahallesi, Şahinbey Caddesi, No:2/B Merkez / Karabük",
             "Semt": "",
             "YolTarifi": "",
-            "Telefon": "0(370)424-20-00",
+            "Telefon": "0(370)424-34-15",
             "Telefon2": "",
             "Sehir": "Karabük",
             "ilce": "Merkez",
-            "latitude": 41.2007,
-            "longitude": 32.6043
+            "latitude": 41.2085048,
+            "longitude": 32.6208806
         },
         {
-            "EczaneAdi": "Koç Eczanesi",
-            "Adresi": "Emek Mahallesi, Akıntürk Sokak No:19-24 Safranbolu / Karabük",
+            "EczaneAdi": "Melis Eczanesi",
+            "Adresi": "Barış Mahallesi, Prof. Dr. Necmettin Erbakan Bostanbükü Bulvarı Boğaziçi Konutları E Blok No:14E/1 Safranbolu / Karabük",
             "Semt": "",
             "YolTarifi": "",
-            "Telefon": "0(370)413-30-70",
+            "Telefon": "0(370)712-33-88",
             "Telefon2": "",
             "Sehir": "Karabük",
             "ilce": "Safranbolu",
-            "latitude": 41.2488,
-            "longitude": 32.6774
+            "latitude": 41.2362616,
+            "longitude": 32.6794476
         },
         {
-            "EczaneAdi": "Yeni Zümrüt Eczanesi",
-            "Adresi": "İsmetpaşa Mahallesi, Doruk Sokak, No:8/B Yenice / Karabük",
+            "EczaneAdi": "Gökçe Eczanesi",
+            "Adresi": "İnönü Caddesi No:2 Yenice / Karabük",
             "Semt": "",
-            "YolTarifi": "Yenice Devlet Hastanesi karşısı",
-            "Telefon": "0(370)766-45-00",
+            "YolTarifi": "",
+            "Telefon": "0(370)766-44-55",
             "Telefon2": "",
             "Sehir": "Karabük",
             "ilce": "Yenice",
-            "latitude": 41.209554,
-            "longitude": 32.305744
+            "latitude": 41.199755,
+            "longitude": 32.329945
         }
     ]
 }

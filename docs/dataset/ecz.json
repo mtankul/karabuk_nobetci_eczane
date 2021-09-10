@@ -4,76 +4,76 @@
     "rowCount": 6,
     "data": [
         {
-            "EczaneAdi": "Tuğba Eczanesi",
-            "Adresi": "Hükümet Caddesi No:71/B Eflani / Karabük",
+            "EczaneAdi": "Gülşen Eczanesi",
+            "Adresi": "Candaroğlu Mahallesi, Hastane Caddesi, No:7 Karabük-Eflani",
             "Semt": "",
             "YolTarifi": "",
-            "Telefon": "0(370)461-24-27",
+            "Telefon": "0(370)461-23-31",
             "Telefon2": "",
             "Sehir": "Karabük",
             "ilce": "Eflani",
-            "latitude": 41.4232,
-            "longitude": 32.9589
+            "latitude": 41.4229,
+            "longitude": 32.9564
         },
         {
-            "EczaneAdi": "Eskipazar Eczanesi",
-            "Adresi": "Merkez Mahallesi, Cami Caddesi, No:16 Eskipazar / Karabük",
+            "EczaneAdi": "Şifa Eczanesi",
+            "Adresi": "Merkez Mahallesi İnönü Caddesi Sen Is Hanı No:1 Eskipazar / Karabük",
             "Semt": "",
             "YolTarifi": "",
-            "Telefon": "0(370)818-37-37",
+            "Telefon": "0(370)818-35-00",
             "Telefon2": "",
             "Sehir": "Karabük",
             "ilce": "Eskipazar",
-            "latitude": 40.944,
-            "longitude": 32.5311
+            "latitude": 40.946421,
+            "longitude": 32.532633
         },
         {
-            "EczaneAdi": "Üniversite Eczanesi",
-            "Adresi": "Üniversite Mahallesi, Efsa Nur Sokak B-Blok No:1-A-B Merkez / Karabük",
+            "EczaneAdi": "Yeni Eczane",
+            "Adresi": "Beşbinevler Mahallesi, Şahin Tepesi Betim 1 İş Merkezi No:10/C",
             "Semt": "",
             "YolTarifi": "",
-            "Telefon": "0(370)433-27-26",
+            "Telefon": "0(370)433-34-44",
             "Telefon2": "",
             "Sehir": "Karabük",
             "ilce": "Merkez",
-            "latitude": 41.221383,
-            "longitude": 32.647587
+            "latitude": 41.235,
+            "longitude": 32.6532
         },
         {
-            "EczaneAdi": "Ünal Eczanesi",
-            "Adresi": "Şirinevler Mahallesi, Şahinbey Caddesi, No:2/B Merkez / Karabük",
+            "EczaneAdi": "Bulut Eczanesi",
+            "Adresi": "Yeşil Mahalle Esentepe Taskent Caddesi No:78 Karabük",
             "Semt": "",
             "YolTarifi": "",
-            "Telefon": "0(370)424-34-15",
+            "Telefon": "0(370)415-55-20",
             "Telefon2": "",
             "Sehir": "Karabük",
             "ilce": "Merkez",
-            "latitude": 41.2085048,
-            "longitude": 32.6208806
+            "latitude": 41.2061,
+            "longitude": 32.6266
         },
         {
-            "EczaneAdi": "Melis Eczanesi",
-            "Adresi": "Barış Mahallesi, Prof. Dr. Necmettin Erbakan Bostanbükü Bulvarı Boğaziçi Konutları E Blok No:14E/1 Safranbolu / Karabük",
+            "EczaneAdi": "Murat Eczanesi",
+            "Adresi": "Bağlarbaşı Mahallesi, Sadi Yaver Ataman Meydanı No:26 Safranbolu / Karabük",
             "Semt": "",
             "YolTarifi": "",
-            "Telefon": "0(370)712-33-88",
+            "Telefon": "0(370)725-34-20",
             "Telefon2": "",
             "Sehir": "Karabük",
             "ilce": "Safranbolu",
-            "latitude": 41.2362616,
-            "longitude": 32.6794476
+            "latitude": 41.2508,
+            "longitude": 32.7001
         },
         {
-            "EczaneAdi": "Gökçe Eczanesi",
-            "Adresi": "İnönü Caddesi No:2 Yenice / Karabük",
+            "EczaneAdi": "Gözde Eczanesi",
+            "Adresi": "İsmetpaşa Mahallesi Doruk Sokak No:2/A Yenice / Karabük",
             "Semt": "",
-            "YolTarifi": "",
-            "Telefon": "0(370)766-44-55",
+            "YolTarifi": "Yeni Devlet Hastanesi karşısı",
+            "Telefon": "0(370)766-33-83",
             "Telefon2": "",
             "Sehir": "Karabük",
             "ilce": "Yenice",
-            "latitude": 41.199755,
-            "longitude": 32.329945
+            "latitude": 41.209526,
+            "longitude": 32.306141
         }
     ]
 }

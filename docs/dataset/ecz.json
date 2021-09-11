@@ -1,7 +1,7 @@
 {
     "status": "success",
     "message": "ok",
-    "rowCount": 6,
+    "rowCount": 7,
     "data": [
         {
             "EczaneAdi": "Gülşen Eczanesi",
@@ -16,64 +16,76 @@
             "longitude": 32.9564
         },
         {
-            "EczaneAdi": "Şifa Eczanesi",
-            "Adresi": "Merkez Mahallesi İnönü Caddesi Sen Is Hanı No:1 Eskipazar / Karabük",
+            "EczaneAdi": "Mutlu Eczanesi",
+            "Adresi": "Orta Sokak No:7/B Eskipazar / Karabük",
             "Semt": "",
             "YolTarifi": "",
-            "Telefon": "0(370)818-35-00",
-            "Telefon2": "",
+            "Telefon": "0(370)818-11-24",
+            "Telefon2": "0 (370) 818-37-86",
             "Sehir": "Karabük",
             "ilce": "Eskipazar",
-            "latitude": 40.946421,
-            "longitude": 32.532633
+            "latitude": 40.9438,
+            "longitude": 32.5304
         },
         {
-            "EczaneAdi": "Yeni Eczane",
-            "Adresi": "Beşbinevler Mahallesi, Şahin Tepesi Betim 1 İş Merkezi No:10/C",
-            "Semt": "",
+            "EczaneAdi": "Gökçınar Eczanesi",
+            "Adresi": "100.Yıl Mahallesi 3 Nolu Cadde Bahçeşehir Sitesi A Blok No:4 Karabük",
+            "Semt": "5000 Evler",
             "YolTarifi": "",
-            "Telefon": "0(370)433-34-44",
+            "Telefon": "0(370)433-71-19",
             "Telefon2": "",
             "Sehir": "Karabük",
             "ilce": "Merkez",
-            "latitude": 41.235,
-            "longitude": 32.6532
+            "latitude": 41.2183,
+            "longitude": 32.668
         },
         {
-            "EczaneAdi": "Bulut Eczanesi",
-            "Adresi": "Yeşil Mahalle Esentepe Taskent Caddesi No:78 Karabük",
+            "EczaneAdi": "Dilek Eczanesi",
+            "Adresi": "Bayır Mahalle Fevzi Çakmak Caddesi No:9 Karabük",
             "Semt": "",
             "YolTarifi": "",
-            "Telefon": "0(370)415-55-20",
+            "Telefon": "0(370)415-30-27",
             "Telefon2": "",
             "Sehir": "Karabük",
             "ilce": "Merkez",
-            "latitude": 41.2061,
-            "longitude": 32.6266
+            "latitude": 41.202,
+            "longitude": 32.6054
         },
         {
-            "EczaneAdi": "Murat Eczanesi",
-            "Adresi": "Bağlarbaşı Mahallesi, Sadi Yaver Ataman Meydanı No:26 Safranbolu / Karabük",
+            "EczaneAdi": "Cerrahpaşa Eczanesi",
+            "Adresi": "Şirinevler Mahallesi, Alparslan Caddesi, No:4/D Merkez / Karabük",
+            "Semt": "",
+            "YolTarifi": "Eğitim ve Araştırma Hastanesi karşısı",
+            "Telefon": "0(370)415-38-57",
+            "Telefon2": "0 (370) 415-45-74",
+            "Sehir": "Karabük",
+            "ilce": "Merkez",
+            "latitude": 41.2113304,
+            "longitude": 32.6212004
+        },
+        {
+            "EczaneAdi": "Bağlar Eczanesi",
+            "Adresi": "Bağlarbaşı Mahallesi Kurtuluş Meydanı No:33 Safranbolu / Karabük",
             "Semt": "",
             "YolTarifi": "",
-            "Telefon": "0(370)725-34-20",
+            "Telefon": "0(370)712-73-78",
             "Telefon2": "",
             "Sehir": "Karabük",
             "ilce": "Safranbolu",
-            "latitude": 41.2508,
-            "longitude": 32.7001
+            "latitude": 41.2635,
+            "longitude": 32.6686
         },
         {
-            "EczaneAdi": "Gözde Eczanesi",
-            "Adresi": "İsmetpaşa Mahallesi Doruk Sokak No:2/A Yenice / Karabük",
+            "EczaneAdi": "Betül Eczanesi",
+            "Adresi": "Merkez Mahallesi, İnönü Caddesi, No:7/A Yenice / Karabük",
             "Semt": "",
-            "YolTarifi": "Yeni Devlet Hastanesi karşısı",
-            "Telefon": "0(370)766-33-83",
+            "YolTarifi": "",
+            "Telefon": "0(370)766-37-37",
             "Telefon2": "",
             "Sehir": "Karabük",
             "ilce": "Yenice",
-            "latitude": 41.209526,
-            "longitude": 32.306141
+            "latitude": 41.199861,
+            "longitude": 32.33048
         }
     ]
 }

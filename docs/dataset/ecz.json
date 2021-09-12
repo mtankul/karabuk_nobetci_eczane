@@ -1,7 +1,7 @@
 {
     "status": "success",
     "message": "ok",
-    "rowCount": 7,
+    "rowCount": 6,
     "data": [
         {
             "EczaneAdi": "Gülşen Eczanesi",
@@ -28,64 +28,52 @@
             "longitude": 32.5304
         },
         {
-            "EczaneAdi": "Gökçınar Eczanesi",
-            "Adresi": "100.Yıl Mahallesi 3 Nolu Cadde Bahçeşehir Sitesi A Blok No:4 Karabük",
+            "EczaneAdi": "Doğa Eczanesi",
+            "Adresi": "100. Yıl Mahallesi, Karabük Kastamonu Yolu Üstü Sokak No:59/D Merkez / Karabük",
             "Semt": "5000 Evler",
             "YolTarifi": "",
-            "Telefon": "0(370)433-71-19",
+            "Telefon": "0(370)502-00-52",
             "Telefon2": "",
             "Sehir": "Karabük",
             "ilce": "Merkez",
-            "latitude": 41.2183,
+            "latitude": 41.2176,
             "longitude": 32.668
         },
         {
-            "EczaneAdi": "Dilek Eczanesi",
-            "Adresi": "Bayır Mahalle Fevzi Çakmak Caddesi No:9 Karabük",
+            "EczaneAdi": "Öztürk Eczanesi",
+            "Adresi": "Sırınevler Mahallesi Alparslan Caddesi No:2/A Karabük",
             "Semt": "",
             "YolTarifi": "",
-            "Telefon": "0(370)415-30-27",
+            "Telefon": "0(370)415-55-57",
             "Telefon2": "",
             "Sehir": "Karabük",
             "ilce": "Merkez",
-            "latitude": 41.202,
-            "longitude": 32.6054
+            "latitude": 41.2082,
+            "longitude": 32.6198
         },
         {
-            "EczaneAdi": "Cerrahpaşa Eczanesi",
-            "Adresi": "Şirinevler Mahallesi, Alparslan Caddesi, No:4/D Merkez / Karabük",
-            "Semt": "",
-            "YolTarifi": "Eğitim ve Araştırma Hastanesi karşısı",
-            "Telefon": "0(370)415-38-57",
-            "Telefon2": "0 (370) 415-45-74",
-            "Sehir": "Karabük",
-            "ilce": "Merkez",
-            "latitude": 41.2113304,
-            "longitude": 32.6212004
-        },
-        {
-            "EczaneAdi": "Bağlar Eczanesi",
-            "Adresi": "Bağlarbaşı Mahallesi Kurtuluş Meydanı No:33 Safranbolu / Karabük",
+            "EczaneAdi": "Yaşam Eczanesi",
+            "Adresi": "Atatürk Mahallesi Sağlık Sokak No:21 Safranbolu / Karabük",
             "Semt": "",
             "YolTarifi": "",
-            "Telefon": "0(370)712-73-78",
+            "Telefon": "0(370)712-60-59",
             "Telefon2": "",
             "Sehir": "Karabük",
             "ilce": "Safranbolu",
-            "latitude": 41.2635,
-            "longitude": 32.6686
+            "latitude": 41.251821,
+            "longitude": 32.6843971
         },
         {
-            "EczaneAdi": "Betül Eczanesi",
-            "Adresi": "Merkez Mahallesi, İnönü Caddesi, No:7/A Yenice / Karabük",
+            "EczaneAdi": "Yenice Eczanesi",
+            "Adresi": "Merkez Mahallesi, Rauf Koymatcık Caddesi, Altınkaya İş Merkezi No:1/M Yenice / Karabük",
             "Semt": "",
             "YolTarifi": "",
-            "Telefon": "0(370)766-37-37",
+            "Telefon": "0(370)766-12-14",
             "Telefon2": "",
             "Sehir": "Karabük",
             "ilce": "Yenice",
-            "latitude": 41.199861,
-            "longitude": 32.33048
+            "latitude": 41.2003,
+            "longitude": 32.3283
         }
     ]
 }
